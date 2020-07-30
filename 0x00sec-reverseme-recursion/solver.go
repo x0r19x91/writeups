@@ -1,5 +1,9 @@
 package main
 
+// Congratulations!
+// The flag is:
+// REVERSE{2525b6131846aef375a4492b8a9571c1149ac8222713e620a24a16e92b259147823a4dda402cb5a40bc391315525c787575d3606f0d7128c19383eefe2bf5a01072d364eb22b3e866a68f9a1c2c0c748}
+
 import (
 	"debug/elf"
 	"encoding/binary"
